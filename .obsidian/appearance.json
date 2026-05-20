@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Border",
+  "theme": "system",
+  "accentColor": "#4f3896",
+  "enabledCssSnippets": [
+    "Iterative Rainbow Folder Icons",
+    "minimalCards",
+    "PrettyHighlights",
+    "rainbowIndent",
+    "iterativeRainbowFolderIcons",
+    "linkStyling",
+    "prettyHighlights",
+    "unorderedListStyling"
+  ]
+}

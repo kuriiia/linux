@@ -1,0 +1,1448 @@
+{
+  "shiba-theme-settings@@shiba-accent-colors": "accent-violet",
+  "shiba-theme-settings@@translucent-pane-style-settings": "setting-style-traditional",
+  "shiba-theme-settings@@shib-transparent-setting-panel": false,
+  "shiba-theme-settings@@shiba-toggle-folder-icons-options": "shiba-toggle-folder-icons-cute",
+  "shiba-theme-settings@@shiba-toggle-indent-colors": true,
+  "shiba-theme-settings@@shiba-toggle-indent-colors-accent": true,
+  "shiba-theme-settings@@folder-style-change-options-colorful": "shiba-color-folder-title",
+  "shiba-theme-settings@@shiba-toggle-folder-icons": true,
+  "shiba-theme-settings@@shiba-remove-file-icons": true,
+  "shiba-theme-settings@@folder-style-change-options-colors-palette": "folder-colorful-two",
+  "shiba-theme-settings@@shib-hide-scrollbars": false,
+  "shiba-theme-settings@@shib-styled-scrollbars": true,
+  "shiba-theme-settings@@shib-layout-select": "shib-card-layout",
+  "shiba-theme-settings@@shib-disable-borders": true,
+  "shiba-theme-settings@@shib-card-shadows": true,
+  "shiba-theme-settings@@shib-card-layout-actions": true,
+  "shiba-theme-settings@@shiba-colors-theme-dark": "Lilac-dark",
+  "shiba-theme-settings@@shiba-accent-style": true,
+  "V1-Willemstad-Root@@no-animations": false,
+  "V1-Willemstad-UI@@startup-obsidian-image": "var(--logo-icon-filled-flat)",
+  "pln@@pln-hi-line": false,
+  "pln@@pln-vision": false,
+  "pln@@pln-cards-sort": true,
+  "pln@@pln-cards-borders": true,
+  "shimmering-focus@@normal-tab-bar": true,
+  "shimmering-focus@@show-close-buttons": true,
+  "shimmering-focus@@show-sidebar-toggle-buttons": true,
+  "shimmering-focus@@show-tab-list-button": false,
+  "shimmering-focus@@show-new-tab-button": true,
+  "shimmering-focus@@show-suggester-instructions": true,
+  "shimmering-focus@@show-sidebar-header-buttons": true,
+  "shimmering-focus@@hide-vault-switcher-and-settings": false,
+  "shimmering-focus@@hide-inline-title-when-more-than-one-tab": false,
+  "shimmering-focus@@show-urls": true,
+  "shimmering-focus@@active-line-highlight": "active-line-gutter",
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
+  "obsidian-prism-theme@@color-scheme-style-dt": "pt-color-scheme-style-minimal-dt",
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-filled-dt",
+  "obsidian-prism-theme@@graph-fill-color-dt": "var(--color-blue-text)",
+  "obsidian-prism-theme@@pt-focused-mode": false,
+  "obsidian-prism-theme@@h1-text-color-dt": "var(--color-purple-text)",
+  "obsidian-prism-theme@@h2-text-color-dt": "var(--color-blue-text)",
+  "obsidian-prism-theme@@h3-text-color-dt": "var(--color-cyan-text)",
+  "obsidian-prism-theme@@h4-text-color-dt": "var(--color-mint-text)",
+  "obsidian-prism-theme@@h5-text-color-dt": "var(--color-green-text)",
+  "obsidian-prism-theme@@h6-text-color-dt": "var(--color-yellow-text)",
+  "obsidian-prism-theme@@scroll-bar-size": 8,
+  "obsidian-prism-theme@@pt-status-bar-style": "pt-status-bar-position-floating",
+  "obsidian-prism-theme@@pt-titlebar-hide-text": true,
+  "obsidian-prism-theme@@pt-file-explorer-folder-icon": true,
+  "obsidian-prism-theme@@pt-file-explorer-folder-icon-color": "pt-file-explorer-folder-icon-active",
+  "obsidian-prism-theme@@pt-colored-folders": true,
+  "obsidian-prism-theme@@pt-colored-folders-files-match": false,
+  "obsidian-prism-theme@@tab-header-alignment": "pt-tab-header-left",
+  "obsidian-prism-theme@@nav-header-left-sidebar-position": "pt-nav-header-left-sidebar-position-bottom",
+  "obsidian-prism-theme@@pt-fade-inactive-tabs": true,
+  "obsidian-prism-theme@@left-sidebar-tab-label-alignment": "pt-tab-label-left-sidebar-left",
+  "obsidian-prism-theme@@right-sidebar-tab-label-alignment": "pt-tab-label-right-sidebar-left",
+  "obsidian-prism-theme@@pt-colored-folders-style": "pt-colored-folders-style-rainbow",
+  "id@@colorblind_protan-deutan": true,
+  "id@@colorblind_tritan": true,
+  "id@@headers-one-color": false,
+  "minimal-style@@base@@dark": "#13151D",
+  "encrypted": false,
+  "folders": [
+    {
+      "name": "email",
+      "id": "d4171c25-39ab-461a-b57b-b3a7008238e3"
+    },
+    {
+      "name": "from google acc",
+      "id": "d85de867-98fe-4209-ba36-b3a7008238e3"
+    },
+    {
+      "name": "twitter",
+      "id": "0a570fb1-9671-4917-8f0e-b3a7008238e3"
+    }
+  ],
+  "items": [
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "c9fe566f-1ed6-4cc0-bbeb-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": null,
+        "password": "myNameIsJamesKuriaMainaMyIdIs41049028",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "a2495d24-a0b3-4eb9-aba4-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": null,
+        "password": "James41049028",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "185ba8b3-42f9-45ad-a796-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": null,
+        "password": "4104",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "e8a1beff-1582-4e18-9fab-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": null,
+        "password": "2bGPv)]XGx)tqW9",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "18125ab2-0bf1-469e-9b07-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": null,
+        "password": "W/731612889272op!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "52e35116-f790-4026-9361-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": null,
+        "password": "James41049028",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "9a9d4a60-e572-4641-8cbf-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": null,
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "2d11edd9-4ae4-43ef-97f5-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "47359",
+        "password": "47359",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "15112099-de73-4f65-963d-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "47359",
+        "password": "41049028",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "991d2cf8-db8f-4600-b0e6-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "47359",
+        "password": "41049028",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "103b1424-a443-4740-bb39-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "bd5649993bb84e81836e7d1581de5f38",
+        "password": "{\"version\":1,\"accountData\":{\"scopedKeys\":{\"https://identity.mozilla.com/apps/oldsync\":{\"kty\":\"oct\",\"scope\":\"https://identity.mozilla.com/apps/oldsync\",\"k\":\"LTn3IUGfBy9q2HydHnP_5PWxILAHAQz2yB1vD4BuLlEpovxGfA4dy_mzKKZp85_5bwGrerN4PIt1an40ewdMaA\",\"kid\":\"1743845077908-K82U2r0Dvjkea0vprIWFOw\"}}}}",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "d13b7ffe-b1e8-40a0-955c-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "chapomaina@gmail.com",
+        "password": "James41049028",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "343718e4-7751-45d5-bfbd-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "chapomaina2@gmail.com",
+        "password": "nf4GgC9F6Q0LQG",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "525de482-a0a0-4b2d-a5a9-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "chapomaina2@gmail.com",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "75d73c15-7894-49f1-820a-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "jameskuria334@gmail.com",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "2ce71288-319f-40e7-8245-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "jameskuria334@gmail.com",
+        "password": "nd2uIdSshQ7g8E",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "e1e3073b-39b6-491f-9ad2-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "jameskuria334@gmail.com",
+        "password": "41049028",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "0703b9e4-b76a-4cc5-9a17-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "jameskuria334@gmail.com",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "40b473be-a1f6-4e50-953f-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "jameskuria334@gmail.com",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "0fa15780-2437-4881-9480-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "jameskuria334@gmail.com",
+        "password": "nd2uIdSshQ7g8E",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "013d0e2c-6afc-434a-914e-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "jameskuria334@gmail.com",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "34d94a9d-029a-4e67-9068-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "jameskuria334@gmail.com",
+        "password": "Maina100",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "ad186479-eb87-4e34-b762-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "jameskuria334@gmail.com",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "6d74a795-9b1a-49fa-b51d-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "jameskuria334@gmail.com",
+        "password": "James41049028",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "f43effbe-749e-40b1-822a-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "kegijef997@inkight.com",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "937b5154-50b0-4955-9fe3-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "kuria",
+        "password": "James100",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "bace4244-5a0d-4574-8fbf-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "kuria",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "d6b5d37e-bbe2-45bf-892e-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "kuria",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "3c221457-a285-4a29-b48f-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "kuriajames100",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "ed023f9d-667f-4a9b-83f0-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "kush",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "6279110e-bdda-4ec8-9dcc-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "kush",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "892e20f4-7cfd-486d-873d-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "kushmainak",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "a5f3eca8-694e-451e-aca6-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "lymjmdyt5@mozmail.com",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "37812e93-54c2-4a02-8735-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "mainaKuria",
+        "password": "Kuria334Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "cd10d5de-bf52-4590-b9c6-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "mainaKuria334@gmail.com",
+        "password": "urvoNN8wOQp2ax",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "1ec89211-fe9f-4d53-aad2-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "mainakuria334@gmail.com",
+        "password": "O79Os2xIVOcvEo",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "df3eb819-8aa5-4fed-9701-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "mainakuria334@gmail.com",
+        "password": "O79Os2xIVOcvEo",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "a6d8cf8d-27d5-456d-9288-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "mainakuria334@gmail.com",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "2f69c449-3747-4f9f-b7b0-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "mainakuria334@gmail.com",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "3f5fd0fb-4854-4bb1-8dc1-b3a7008238e1",
+      "folderId": "d85de867-98fe-4209-ba36-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "--",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "moyow81943@magpit.com",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.465Z",
+      "creationDate": "2025-12-02T07:54:07.465Z",
+      "id": "b9334912-80b3-43ba-899a-b3a7008238e1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "app manager ",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "app man",
+        "password": "Uny6sCrrICOsPrOAIWZvnP0jxyQP6X",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.466Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "de2aa5a9-a8c9-46c5-89b0-b3a7008238e1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "codegym.cc",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://codegym.cc/dialogues/notices/11928000"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "jameskuria334@gmail.com",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.466Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "ecdaa882-a268-4ec3-8392-b3a7008238e1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "codingbat.com",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://codingbat.com/pref?docreate=1"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "jameskuria334@gmail.com",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.466Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "fada8139-f49e-40bf-90a3-b3a7008238e1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "com.vivaldi.browser",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "androidapp://com.vivaldi.browser"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "kuriiia",
+        "password": "James41049028",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.466Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "e60fe5cd-5a71-4a31-8796-b3a7008238e1",
+      "folderId": "d4171c25-39ab-461a-b57b-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "email 4",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://accounts.google.com/v3/signin/speedbump/passkeyenrollment?TL=ANzgctQbsZdNr6NZwNmXoyEr4CxOuEI4D1InkOQMP8tPGO8qbEJuhil0TAxYkK7l&authuser=0&checkConnection=youtube%3A904&checkedDomains=youtube&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&dsh=S-633518106%3A1763229308808954&ec=GAlAFw&flowEntry=AddSession&flowName=GlifWebSignIn&hl=en&pstMsg=1&service=mail"
+          }
+        ],
+        "fido2Credentials": [
+          {
+            "credentialId": "bbcabf86-255f-46c7-931f-e0ae0eec5d4a",
+            "keyType": "public-key",
+            "keyAlgorithm": "ECDSA",
+            "keyCurve": "P-256",
+            "keyValue": "MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQguOEXugc5QcKIGNKq9Szu6QMZLm-zobWotxmLYwHZUhWhRANCAATnmvTfEONuW2ag18zCxPsBbAzzV6ClIJ_c_6ML4h18Xkzs5p7R_e1VfYwLSilXDJ1w54RV-tL-uizcqHDrdgJJ",
+            "rpId": "google.com",
+            "userHandle": "R09PR0xFX0FDQ09VTlQ6MTA1MDc1MTc4MDY0NDgxNDQ5Nzgz",
+            "userName": "myfundike@gmail.com",
+            "counter": "0",
+            "rpName": "Google",
+            "userDisplayName": null,
+            "discoverable": "true",
+            "creationDate": "2025-11-15T17:57:02.245Z"
+          }
+        ],
+        "username": "myfundike@gmail.com",
+        "password": "jenganasi",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.466Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "6a3e2597-d4d4-4e1b-a04b-b3a7008238e1",
+      "folderId": "d4171c25-39ab-461a-b57b-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "email1",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://myaccount.google.com/signinoptions/password?gar=WzEyMF0&continue=https://myaccount.google.com/security?gar%3DWzEyMF0%26hl%3Den%26utm_source%3DOGB%26utm_medium%3Dact%26rapt%3DAEjHL4MnR0dqKBOX71fhD-L-FKmmD65_to_Il0IfRolMCelwmbSZMI8DN85hTq-UvamHTs_OF1Lk1RpDjrOyCLvxLTWNCgdIwsM56t7_jlC2szqPjHy7bDg&pli=1&rapt=AEjHL4OVdiS5H395_YFRR73hAi8YH3gFjz3vNSfCNBzE9bjtOFAb8KwFJOJ1ClFDApzccfTsQLKxwQ0mKujtjwFtXEvWfWjnY_QP279v5ZREN5OWiK3hA_U"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "Jameskuria334@gmail.com",
+        "password": "nd2uIdSshQ7g8E",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.466Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "e57ace7c-3729-4ca2-b0c6-b3a7008238e1",
+      "folderId": "d4171c25-39ab-461a-b57b-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "email2",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://myaccount.google.com"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "mainaKuria334@gmail.com",
+        "password": "O79Os2xIVOcvEo",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.466Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "dfa178f0-c53c-441b-89af-b3a7008238e1",
+      "folderId": "d4171c25-39ab-461a-b57b-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "email3",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://myaccount.google.com"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "chapomaina2@gmail.com",
+        "password": "nf4GgC9F6Q0LQG",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.466Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "2afa3693-2467-4e39-a63d-b3a7008238e1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "instagram.com",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://www.instagram.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "ku_r_ia",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2026-03-27T18:04:18.773Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "3f6ebc89-11fa-46aa-9d6a-b3a7008238e1",
+      "folderId": "0a570fb1-9671-4917-8f0e-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "kuria",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "x.com"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": null,
+        "password": "xp2Bma$T*^WV5M",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.466Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "b4d92241-b5a1-4615-ab9f-b3a7008238e1",
+      "folderId": "0a570fb1-9671-4917-8f0e-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "no way",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://x.com/i/flow/password_reset"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "mainaKuria334@gmail.com",
+        "password": "urvoNN8wOQp2ax",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.466Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "b06878e3-af32-4ee9-ab78-b3a7008238e1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "paypal",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://passwords.google.com/u/1/password/7tAWT0hy1njlL4ejXWx2KM8OlVJwFQ2H8uhXEuUDjZ8%3D?ep=1&bnt=1&rapt=AEjHL4PuLHyrkdjKVrdF7oQkWzSt-jDNOD80XhQpsr1BXBtYkoEVztUdJOOE_v0m9EV9UBGtQMS4BCvmyoChlpgIKNu_zWi44P8C19rpnpkw-8sVqMbuCQI"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "704417435",
+        "password": "Kuria334!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.466Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "4623f392-f41c-40ae-bd42-b3a7008238e1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "portal.hef.co.ke",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://portal.hef.co.ke/auth/signin"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "jameskuria334@gmail.com",
+        "password": "41049028",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.466Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "a91d1187-de7c-4a7c-9f15-b3a7008238e1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "studentoffcampus.nairobitti.ac.ke",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://studentoffcampus.nairobitti.ac.ke/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "47359",
+        "password": "41049028",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.466Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "2f78763d-80a9-4a70-b590-b3a7008238e1",
+      "folderId": "0a570fb1-9671-4917-8f0e-b3a7008238e3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Twitter ",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [],
+        "fido2Credentials": [],
+        "username": "kushmaina",
+        "password": "LoX$aq2eZzUCgS",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.466Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "dcf8d2f0-8341-4272-9969-b3a7008238e1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "www.spurbets.com",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "www.spurbets.com"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "070471435",
+        "password": "12345",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-12-02T07:54:07.466Z",
+      "creationDate": "2025-12-02T07:54:07.466Z",
+      "id": "e067c946-a9d8-497a-a9d8-b3a7008238e1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "x.com",
+      "notes": null,
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "uri": "https://x.com/i/flow/login"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "TravisSbelt",
+        "password": "Kuria334",
+        "totp": null
+      },
+      "collectionIds": null
+    }
+  ],
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "Appearance-dark@@accent-color-override-dark": true,
+  "Appearance-dark@@card-shadow-dark": "\"\"",
+  "Appearance-dark@@color-to-tab-icon-dark": false,
+  "Appearance-dark@@border-radius-activated-tab-header-dark": "12px",
+  "Appearance-dark@@Active-states-file-explorer-select-dark": "activated-file-accent-dark",
+  "Appearance-dark@@card-highlight-dark": false,
+  "Appearance-dark@@workspace-divider-transparent-dark": true,
+  "Appearance-dark@@mod-left-split-background-select-dark": "mod-left-split-background-transparent-dark",
+  "Components@@tab-autohide": true,
+  "Components@@status-bar-autohide": true,
+  "Components@@Ribbon-autohide": true,
+  "Components@@nav-header-autohide": false,
+  "Components@@tab-title-bar-autohide": false,
+  "Components@@vault-profile-autohide": true,
+  "Components@@CTA-BTN-enable": false,
+  "Components@@file-names-untrim": true,
+  "Components@@folder-font-bold": true,
+  "Components@@file-icon-remove": false,
+  "Components@@colorful-folder": true,
+  "Components@@outline-enhanced": true,
+  "Components@@new-tab-btn-select": "new-tab-btn-default",
+  "Components@@setting-item-title-icon-remove": false,
+  "Components@@scrollbar-hide": false,
+  "Components@@restored-scrollbars": false,
+  "Editor@@line-hover-indicator": true,
+  "Editor@@focus-indicator-list-level": true,
+  "Editor@@focus-indicator-codeblock-line-number": true,
+  "Editor@@hover-indicator-color@@dark": "#E25454",
+  "Editor@@border-focus-mode": false,
+  "Editor@@editor-grid-background-pattren": false,
+  "Editor@@collapse-icon-restore": true,
+  "Editor@@heading-indicator-off": true,
+  "Appearance-dark@@card-border-radius-dark": "16px",
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-dark@@accent-dark": "#8B6CEF",
+  "Appearance-dark@@color-red-rgb@@dark": "#FB464C",
+  "Appearance-dark@@color-orange-rgb@@dark": "#E9973F",
+  "Appearance-dark@@color-yellow-rgb@@dark": "#E0DE71",
+  "Appearance-dark@@color-green-rgb@@dark": "#44CF6E",
+  "Appearance-dark@@color-cyan-rgb@@dark": "#53DFDD",
+  "Appearance-dark@@color-blue-rgb@@dark": "#027AFF",
+  "Appearance-dark@@color-purple-rgb@@dark": "#A882FF",
+  "Appearance-dark@@color-pink-rgb@@dark": "#FA99CD",
+  "Appearance-dark@@mod-right-split-background-select-dark": "mod-right-split-background-transparent-dark",
+  "Appearance-dark@@background-underlying-select-dark": "background-underlying-secondary-dark",
+  "Appearance-dark@@on-border-dark": "#BABABA",
+  "Appearance-dark@@background-primary@@dark": "#1E1E1E",
+  "Appearance-dark@@background-primary-alt@@dark": "#111111",
+  "Appearance-dark@@background-secondary@@dark": "#262626",
+  "Appearance-dark@@background-secondary-alt@@dark": "#363636",
+  "Appearance-dark@@background-tertiary@@dark": "#262626",
+  "Appearance-dark@@workspace-background-translucent@@dark": "#00000099",
+  "Appearance-dark@@background-modifier-hover@@dark": "#FFFFFF13",
+  "Appearance-dark@@background-modifier-active-hover@@dark": "#8A5CF526",
+  "Appearance-dark@@background-modifier-border@@dark": "#363636",
+  "Appearance-dark@@background-modifier-border-hover@@dark": "#3f3f3f",
+  "Appearance-dark@@background-modifier-border-focus@@dark": "#555555",
+  "Appearance-dark@@text-normal@@dark": "#DADADA",
+  "Appearance-dark@@text-muted@@dark": "#BABABA",
+  "Appearance-dark@@text-faint@@dark": "#BABABA",
+  "Appearance-dark@@interactive-normal@@dark": "#363636",
+  "Appearance-dark@@interactive-hover@@dark": "#3F3F3F",
+  "Appearance-dark@@background-activated-tab-header-dark": "#FFFFFF13",
+  "Appearance-dark@@shadow-activated-tab-header-dark": "none",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-mauve",
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "anuppuccin-theme-settings@@anp-active-line": "anp-current-line-border",
+  "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-sleek",
+  "anuppuccin-theme-settings@@anp-callout-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
+  "anuppuccin-theme-settings@@anp-speech-bubble": true,
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
+  "anuppuccin-theme-settings@@anp-toggle-preview": true,
+  "o-theme-settings@@o-theme-dark": "o-min-d",
+  "o-theme-settings@@o-border": "var(--bb-border)",
+  "o-theme-settings@@o-color-accent": "o-purple",
+  "o-theme-settings@@o-list-distinct": true,
+  "o-theme-settings@@o-header-line-accent": "o-accent-headers-body",
+  "o-theme-settings@@o-header-line-h1": true,
+  "o-theme-settings@@o-colorful-headings": true,
+  "o-theme-settings@@o-frontmatter": true,
+  "o-theme-settings@@o-header-lapel": true,
+  "o-theme-settings@@o-hover-status-bar": true,
+  "o-theme-settings@@o-kanban-style": "o-kanban-notion",
+  "Editor@@inline-title-divider-remove": false,
+  "Editor@@h1-color-select": "h1-color-designated",
+  "Editor@@h2-color-select": "h2-color-designated",
+  "Editor@@h3-color-select": "h3-color-designated",
+  "Editor@@h4-color-select": "h4-color-designated",
+  "Editor@@h5-color-select": "h5-color-designated",
+  "Editor@@h6-color-select": "h6-color-designated",
+  "Editor@@inline-title-color-select": "inline-title-color-customized",
+  "Editor@@inline-title-color@@dark": "#FFFFFF",
+  "Editor@@text-align-justify": true,
+  "Editor@@callout-style-select": "callout-style-customize",
+  "Editor@@callout-border-opacity": 0,
+  "Editor@@callout-radius": "16px",
+  "Editor@@codeblock-style-select": "codeblock-style-one-dark",
+  "Editor@@img-center-align": true,
+  "pdf-plus@@pdf-plus-vim-hint-inverted": false
+}

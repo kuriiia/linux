@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Resources/"
+  ],
+  "attachmentFolderPath": "Resources"
+}

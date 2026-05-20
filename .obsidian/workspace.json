@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbcb228d150b3ea6",
+    "type": "split",
+    "children": [
+      {
+        "id": "19e8b01df4af18ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c38b0a0f0621e42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0653194d3738438",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#rust",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "972067febec6facd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "40c0d1bc189a524a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2451a24b306fae49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2187f96679184a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rust/03. Data Types.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03. Data Types"
+            }
+          },
+          {
+            "id": "97cc0f5386398dfe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rust/03. Data Types.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03. Data Types"
+            }
+          },
+          {
+            "id": "a5d13c78e51c50b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "34c2e9f113d30a79",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "080504c55e3f3180",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resources/Crafting Interpreters.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Crafting Interpreters"
+            }
+          },
+          {
+            "id": "9a1711d60cdf4a00",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "841eb1a604c2be4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94d0667045dc7de4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "f1dde529d5599a43",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Linux",
+    "Cheatsheats/config files.md",
+    "README.md",
+    "Projects/rust practice/Temperature.md",
+    "Projects/compiler/Parser.md",
+    "Rust/05. Control Flow.md",
+    "Projects/rust practice",
+    "Rust/01. Common Concepts.md",
+    "Rust/03. Data Types.md",
+    "Rust/04. Functions.md",
+    "Rust/00. misc.md",
+    "cpp/code.md",
+    "Cheatsheats/misc.md",
+    "Concepts/Object Oriented Programming.md",
+    "03. Boolean.md",
+    "Rust/01. Data Types/01. Integers.md",
+    "Rust/01. Data Types/02. Floating-point.md",
+    "Rust/00.",
+    "Rust/01. Data Types",
+    "to read.md",
+    "Rust",
+    "Resources/Crafting Interpreters.pdf",
+    "Projects/compiler/C/Dynamic arrays.md",
+    "Projects/compiler/C/Pointers.md",
+    "Cheatsheats/Git.md",
+    "Projects/compiler/C/p (*) to p (*).canvas",
+    "Resources/p to p.png",
+    "Untitled.base",
+    "Projects/compiler/C",
+    "Git.md",
+    "Projects/compiler/Lexer.md",
+    "Resources/Crafting Interpreters -- Robert Nystrom -- 2021 -- 6dc85d4d3c1b5c330660f89ef98493a2 -- Anna’s Archive.pdf",
+    "Resources/Crafting Interpreters.epub",
+    "Resources/Crafting Interpreters -- Robert Nystrom -- United States_] _, 2021 -- Genever Benning -- isbn13 9780990582939 -- c96d09f7d0933fc5c9b75228f7f3e2a3 -- Anna’s Archive.epub",
+    "cpp/Qt.md",
+    "cpp/Code Snippets.md",
+    "cpp/Concepts.md",
+    "Home.canvas",
+    "2026-04-18.md"
+  ]
+}
