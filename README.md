@@ -8,7 +8,7 @@ It explained that running a modern Linux distro on my Dell 7490 requires adding 
 I installed Arch Linux, and after the first boot I had to add those kernel options directly to my **Limine bootloader** config:
 
 ```config
-//add at the end of cmdline(on all the kernels)
+//add at the end of cmdline(on all the kernels) in /boot/limine/limine.conf 
 cmdline: ...i915.enable_dc=0 intel_idle.max_cstate=1
 ```
 
@@ -20,6 +20,6 @@ I then switched to **Hyprland**, but quickly realized it demanded a lot of ongoi
 
 After that, I moved to **Niri** with the **Noctalia shell**, and it turned out to be exactly what I was looking for.
 
-![niri screenshot](Resources/img1.png)
+![niri](Resources/img1.png)
 
 Currently, I'm learning **Quickshell** so I can build my shell exactly the way I want it to look and behave.
