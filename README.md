@@ -20,6 +20,6 @@ I then switched to **Hyprland**, but quickly realized it demanded a lot of ongoi
 
 After that, I moved to **Niri** with the **Noctalia shell**, and it turned out to be exactly what I was looking for.
 
-![[img1.png]]
+![niri screenshot](Resources/img1.png)
 
 Currently, I'm learning **Quickshell** so I can build my shell exactly the way I want it to look and behave.
